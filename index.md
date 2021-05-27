@@ -1,5 +1,5 @@
 
-    <div width="75%">
+    <div width=75%>
         <h2>Xiao Ma</h2>    
         <h6>Master student at MMLAB</h6>
         <h6>Shenzhen, China</h6>
@@ -15,7 +15,7 @@
         <h6> go on</h6>
     </div>
 
-    <div width="25%">
+    <div width=25%>
         <img src="mx.jpg" width="100%">      
     </div>
 
