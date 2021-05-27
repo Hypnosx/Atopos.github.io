@@ -1,9 +1,9 @@
 <html>
 <head>    
-	<style type="text/css">
-        .left{width: 80%;float: left;}
-        .right{width: 20%;float: right
-   </style>
+    <style type="text/css">
+	.left{width: 80%;float: left;}
+	.right{width: 20%;float: right
+    </style>
 </head>
 <body>
 <div class="left">
