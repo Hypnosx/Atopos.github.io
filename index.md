@@ -1,5 +1,5 @@
 
-    <td width="75%">
+    <div width="75%">
         <h2>Xiao Ma</h2>    
         <h6>Master student at MMLAB</h6>
         <h6>Shenzhen, China</h6>
@@ -13,11 +13,11 @@
         <h6>B.Eng student of Computer Science and Engineering in Southeast University（SEU）</h6>
         <h5>Research</h5>
         <h6> go on</h6>
-    </td>
+    </div>
 
-    <td width="25%">
+    <div width="25%">
         <img src="mx.jpg" width="100%">      
-    </td>
+    </div>
 
 
 
