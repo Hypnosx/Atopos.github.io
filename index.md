@@ -1,11 +1,10 @@
-<table>
+
     <td width="75%">
         <h2>Xiao Ma</h2>    
         <h6>Master student at MMLAB</h6>
         <h6>Shenzhen, China</h6>
         <h6>xiao.ma@siat.ac.cn</h6>
-        <h6>Action Classification, Temporal Action Detection, Video Understanding</b></p>
-
+        <h6>Action Classification, Temporal Action Detection, Video Understanding</h6>
         <h3>About Me</h3>
         <h5>Education</h5>
         <h6> Aug, 2018 ~ Jul, 2021</h6>
@@ -19,7 +18,7 @@
     <td width="25%">
         <img src="mx.jpg" width="100%">      
     </td>
- </table>
+
 
 
 
