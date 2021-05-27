@@ -1,4 +1,5 @@
-
+<html>
+<body>
     <div width=75%>
         <h2>Xiao Ma</h2>    
         <h6>Master student at MMLAB</h6>
@@ -18,6 +19,8 @@
     <div width=25%>
         <img src="mx.jpg" width="100%">      
     </div>
+</body>
+</html>
 
 
 
