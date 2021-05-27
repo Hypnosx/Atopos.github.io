@@ -1,5 +1,5 @@
 
-<h2>Xiao Ma</h2>       <img src="/Users/moxi/Desktop/mx.jpg" alt="mx" style="zoom:33%;" />
+<h2>Xiao Ma</h2>       <img src="mx.jpg" alt="mx" style="zoom:2%;" />
 <h6>Master student at MMLAB</h6>
 <h6>Shenzhen, China</h6>
 <h6>xiao.ma@siat.ac.cn</h6>
