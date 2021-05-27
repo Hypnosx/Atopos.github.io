@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/Hypnosx/Atopos.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<h2>Xiao Ma</h2>       <img src="/Users/moxi/Desktop/mx.jpg" alt="mx" style="zoom:33%;" />
+<h6>Master student at MMLAB</h6>
+<h6>Shenzhen, China</h6>
+<h6>xiao.ma@siat.ac.cn</h6>
+<h6>Action Classification, Temporal Action Detection, Video Understanding</b></p>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<h3>About Me</h3>
+<h5>Education</h5>
+<h6> Aug, 2018 ~ Jul, 2021</h6>
+<h6>Master student at MMLAB in Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences(SIAT, CAS), advised by Yu Qiao.</h6>
+<h6> Aug, 2014 ~ Jul, 2018</h6>
+<h6>B.Eng student of Computer Science and Engineering in Southeast University（SEU）</h6>
+<h5>Research</h5>
+<h6> go on</h6>
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Hypnosx/Atopos.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
