@@ -1,5 +1,4 @@
-<table border="0">
-  <tr>
+
     <td width="75%">
       <h2>Xiao Ma</h2>    
       <h6>Master student at MMLAB</h6>
@@ -20,7 +19,6 @@
      <td width="25%">
       <img src="mx.jpg" width="100%">      
      </td>
-  </tr>
-</table>
+
 
 
