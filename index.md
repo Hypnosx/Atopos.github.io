@@ -1,6 +1,12 @@
 <html>
+<head>    
+	<style type="text/css">
+        .left{width: 80%;float: left;}
+        .right{width: 20%;float: right
+   </style>
+</head>
 <body>
-<div width= "75%" float="left">
+<div class="left">
     <h2>Xiao Ma</h2>    
     <h6>Master student at MMLAB</h6>
     <h6>Shenzhen, China</h6>
@@ -16,7 +22,7 @@
     <h6> go on</h6>
  </div>
 
-<div width= "25%" float="right">
+<div class="right">
     <img src="mx.jpg">      
 </div>
 </body>
